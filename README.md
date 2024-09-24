@@ -3,9 +3,10 @@ A block game using AI to remake it in Python.
 
 ## Installation
 
-# NEEDS PYTHON AND URSINA
+# NEEDS PYTHON AND URSINA and uh pyarmor i guess?
 
 use git or download the zip.
+
 
 ```py
 pip install ursina
